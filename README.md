@@ -1,4 +1,4 @@
-<h1 text-align="center">Hi there, I'm Ekaterina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Ekaterina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I study frontend development</h3>
 <!--
 **EkaterinaRina/EkaterinaRina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
