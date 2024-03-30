@@ -1,16 +1,24 @@
-<h1 align="center">Hi there, I'm Ekaterina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I study frontend development</h3>
-<!--
-**EkaterinaRina/EkaterinaRina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ekaterina!
+## Frontend developer  
+### Education:  
+Higher education. Master's degree in design engineering  
+### Additional education: 
+programming school Hexlet, frontend developer
 
-Here are some ideas to get you started:
+### About me: 
+  Self-motivated Junior Frontend Developer with strong skills in JavaScript programming (ES6+), web application development using HTML and CSS. I have experience in test automation using Jest, as well as proficiency in the Git version control system and the GitHub platform. Familiar with backend development on Node.js. I continue to actively study and explore new technologies.  
+  I'm looking for a job with the opportunity to gain experience in team development and professional growth. I like to learn and quickly absorb new information. I'm ready for new challenges, constantly improving and striving for new professional challenges.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:  
+* Knowledge of operating systems, proficiency in Linux, Windows
+* Algorithms and data structures
+* Mathematical preparation  
+* JavaScript (ES6+)  
+* HTML  
+* CSS  
+* Automatic testing (Jest)  
+* Git, GitHub
+
+### Social media:  
+Telegram: https://t.me/cathynes  
+LinkedIn: https://www.linkedin.com/in/ekaterina-mnozhinskaya/  
