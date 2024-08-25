@@ -6,7 +6,7 @@ Frontend developer
 
 Education: Higher education. Master's degree in design engineering Additional education: Programming school Hexlet, frontend developer Self-motivated Junior Frontend Developer with strong skills in JavaScript programming (ES6+), web application development using HTML and CSS. I have experience in test automation using Jest, as well as proficiency in the Git version control system and the GitHub platform. Familiar with backend development on Node.js. I continue to actively study and explore new technologies. I'm looking for a job with the opportunity to gain experience in team development and professional growth. I like to learn and quickly absorb new information. I'm ready for new challenges, constantly improving and striving for new professional challenges.
 
-* 🌍  I'm based in Nizhny Novgorod
+* 🌍  I'm based in Saint Petersburg  
 * 🖥️  See my portfolio at [portfolio/EkaterinaMnozhinskaya](https://cv.hexlet.io/ru/resumes/3644)
 * ✉️  You can contact me at [https://t.me/cathynes](mailto:https://t.me/cathynes)
 * 🧠  I'm learning React and JQuerry
